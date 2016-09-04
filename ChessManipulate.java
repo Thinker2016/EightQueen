@@ -1,9 +1,5 @@
 package chess;
 
-/**
- * @author Shao Wenzhao
- */
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 
